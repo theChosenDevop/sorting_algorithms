@@ -15,7 +15,7 @@ int main(void)
 	print_array(array, n);
 	printf("\n");
 	bubble_sort(array, n);
-	print("\n");
+	printf("\n");
 	print_array(array, n);
 	return (0);
 }
